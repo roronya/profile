@@ -11,10 +11,16 @@ export default () => (
         <Link href='https://github.com/roronya'>GitHub</Link>
       </li>
       <li>
+        <Link href='http://roronya.hatenablog.com/'>Blog</Link>
+      </li>
+      <li>
         <Link href='https://www.facebook.com/anoddfellow'>Facebook</Link>
       </li>
       <li>
         <Link href='https://www.instagram.com/kanaichang/'>Instagram</Link>
+      </li>
+      <li>
+        <Link href='https://www.flickr.com/photos/anoddfellow/'>Flickr</Link>
       </li>
     </ul>
     <style jsx>
