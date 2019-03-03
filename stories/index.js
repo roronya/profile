@@ -19,4 +19,13 @@ storiesOf('Button', module)
   .add('with some emoji', () => (
     <Button onClick={action('clicked')}>😀 😎 👍 💯</Button>
   ))
-  .add('Layout', () => <Layout />)
+storiesOf('Layout', module).add('default', () => (
+  <Layout>
+    <ul>
+      <li>a</li>
+      <li>a</li>
+      <li>a</li>
+    </ul>
+    <h1>hogehoge</h1>
+  </Layout>
+))
