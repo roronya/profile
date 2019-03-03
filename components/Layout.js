@@ -9,9 +9,11 @@ export default ({ children }) => (
       {`
         .container {
           display: grid;
-          grid-template-columns: 488px 792px;
+          grid-template-columns: 284px 988px;
           grid-template-rows: auto;
           grid-gap: 8px;
+          width: 1280px;
+          margin: 8px auto 0 auto;
         }
         .menu {
           grid-colunn: 1/2;

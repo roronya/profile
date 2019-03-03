@@ -11,6 +11,7 @@ export default () => (
       <li>2015, NTT Laboratories, research internship</li>
       <li>2014, SQUARE ENIX, internship</li>
       <li>2014, Security Camp 2014, participant</li>
+      <li>2012-2016, Tsukaeru.net, part-time customer support engineer</li>
     </ul>
     <h2>education</h2>
     <ul>
