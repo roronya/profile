@@ -2,6 +2,7 @@ import React from 'react'
 import { storiesOf } from '@storybook/react'
 import Layout from '../components/Layout'
 import Menu from '../components/Menu'
+import Profile from '../components/Profile'
 
 storiesOf('Layout', module).add('default', () => (
   <Layout>
@@ -14,3 +15,4 @@ storiesOf('Layout', module).add('default', () => (
   </Layout>
 ))
 storiesOf('Menu', module).add('default', () => <Menu />)
+storiesOf('Profile', module).add('default', () => <Profile />)

@@ -1,9 +1,9 @@
 import React from 'react'
 export default ({ children }) => (
   <div>
-    <div class='container'>
-      <div class='menu'>{children[0]}</div>
-      <div class='content'>{children[1]}</div>
+    <div className='container'>
+      <div className='menu'>{children[0]}</div>
+      <div className='content'>{children[1]}</div>
     </div>
     <style jsx>
       {`

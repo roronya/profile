@@ -11,7 +11,7 @@ export default () => (
     </ul>
     <style jsx>{`
       li {
-        display: none;
+        opacity: 0;
       }
       li:nth-child(1) {
         animation: fadeIn 0.3s ease 0.3s 1 forwards;
@@ -30,7 +30,7 @@ export default () => (
       }
       @keyframes fadeIn {
         100% {
-          display: block;
+          opacity: 1;
         }
       }
     `}</style>
