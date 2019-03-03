@@ -570,7 +570,6 @@ webpackHotUpdate('static/development/pages/index.js', {
 
           function Link () {
             var _this
-
             ;(0, _classCallCheck2.default)(this, Link)
             _this = (0, _possibleConstructorReturn2.default)(
               this,
