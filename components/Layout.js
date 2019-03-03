@@ -1,24 +1,27 @@
 import React from 'react'
 export default () => (
-  <div class='container'>
-    <div class='menu' />
-    <div class='content' />
-    <style jsx global>
+  <div>
+    <div class='container'>
+      <div class='menu' />
+      <div class='content' />
+    </div>
+    <style jsx>
       {`
         .container {
-            display: grid;
-            grid-template-columns: 
-            width: 1280px;
+          display: grid;
+          grid-template-columns: 488px 792px;
+          grid-template-rows: auto;
+          grid-gap: 8px;
         }
         .menu {
-            width: 280px;
-            backglound-color: red;
+          grid-colunn: 1/2;
+          grid-row: 1;
         }
         .content {
-            width: 1000px;
-            backglound-color: blue;
+          grid-column: 2/2;
+          grid-row: 1;
         }
-        `}
+      `}
     </style>
   </div>
 )
