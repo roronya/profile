@@ -15,26 +15,22 @@ export default () => (
         internship
       </li>
       <li>
-        2015,{' '}
-        <Link href='https://voyagegroup.com/'>VOYAGE GROUP, internship</Link>
+        2015, <Link href='https://voyagegroup.com/'>VOYAGE GROUP</Link>,
+        internship
       </li>
       <li>
         2015,{' '}
-        <Link href='http://www.ntt.co.jp/RD/index.html'>
-          NTT Laboratories, research internship
-        </Link>
+        <Link href='http://www.ntt.co.jp/RD/index.html'>NTT Laboratories</Link>,
+        research internship
+      </li>
+      <li>
+        2014, <Link href='https://www.jp.square-enix.com/'>SQUARE ENIX</Link>,
+        internship
       </li>
       <li>
         2014,{' '}
-        <Link href='https://www.jp.square-enix.com/'>
-          SQUARE ENIX, internship
-        </Link>
-      </li>
-      <li>
-        2014,{' '}
-        <Link href='https://www.security-camp.or.jp/'>
-          Security Camp 2014, participant
-        </Link>
+        <Link href='https://www.security-camp.or.jp/'>Security Camp 2014</Link>,
+        participant
       </li>
       <li>
         2012-2016, <Link href='https://www.tsukaeru.net/'>Tsukaeru.net</Link>,

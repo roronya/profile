@@ -415,20 +415,20 @@
                   },
                   __self: this
                 },
-                '2015,',
-                ' ',
+                '2015, ',
                 react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                   next_link__WEBPACK_IMPORTED_MODULE_1___default.a,
                   {
                     href: 'https://voyagegroup.com/',
                     __source: {
                       fileName: _jsxFileName,
-                      lineNumber: 19
+                      lineNumber: 18
                     },
                     __self: this
                   },
-                  'VOYAGE GROUP, internship'
-                )
+                  'VOYAGE GROUP'
+                ),
+                ', internship'
               ),
               react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                 'li',
@@ -451,39 +451,40 @@
                     },
                     __self: this
                   },
-                  'NTT Laboratories, research internship'
-                )
+                  'NTT Laboratories'
+                ),
+                ', research internship'
               ),
               react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                 'li',
                 {
                   __source: {
                     fileName: _jsxFileName,
-                    lineNumber: 27
+                    lineNumber: 26
                   },
                   __self: this
                 },
-                '2014,',
-                ' ',
+                '2014, ',
                 react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                   next_link__WEBPACK_IMPORTED_MODULE_1___default.a,
                   {
                     href: 'https://www.jp.square-enix.com/',
                     __source: {
                       fileName: _jsxFileName,
-                      lineNumber: 29
+                      lineNumber: 27
                     },
                     __self: this
                   },
-                  'SQUARE ENIX, internship'
-                )
+                  'SQUARE ENIX'
+                ),
+                ', internship'
               ),
               react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                 'li',
                 {
                   __source: {
                     fileName: _jsxFileName,
-                    lineNumber: 33
+                    lineNumber: 30
                   },
                   __self: this
                 },
@@ -495,19 +496,20 @@
                     href: 'https://www.security-camp.or.jp/',
                     __source: {
                       fileName: _jsxFileName,
-                      lineNumber: 35
+                      lineNumber: 32
                     },
                     __self: this
                   },
-                  'Security Camp 2014, participant'
-                )
+                  'Security Camp 2014'
+                ),
+                ', participant'
               ),
               react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
                 'li',
                 {
                   __source: {
                     fileName: _jsxFileName,
-                    lineNumber: 39
+                    lineNumber: 35
                   },
                   __self: this
                 },
@@ -518,7 +520,7 @@
                     href: 'https://www.tsukaeru.net/',
                     __source: {
                       fileName: _jsxFileName,
-                      lineNumber: 40
+                      lineNumber: 36
                     },
                     __self: this
                   },
@@ -532,7 +534,7 @@
               {
                 __source: {
                   fileName: _jsxFileName,
-                  lineNumber: 44
+                  lineNumber: 40
                 },
                 __self: this
               },
@@ -543,7 +545,7 @@
               {
                 __source: {
                   fileName: _jsxFileName,
-                  lineNumber: 45
+                  lineNumber: 41
                 },
                 __self: this
               },
@@ -552,7 +554,7 @@
                 {
                   __source: {
                     fileName: _jsxFileName,
-                    lineNumber: 46
+                    lineNumber: 42
                   },
                   __self: this
                 },
@@ -563,7 +565,7 @@
                 {
                   __source: {
                     fileName: _jsxFileName,
-                    lineNumber: 50
+                    lineNumber: 46
                   },
                   __self: this
                 },
@@ -5900,8 +5902,8 @@
         })
 
         for (
-          var es6Symbols = 'hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables'.split(
-              // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
+          var es6Symbols = // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
+            'hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables'.split(
               ','
             ),
             j = 0;
@@ -8226,6 +8228,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
             function Link () {
               var _this
+
               ;(0, _classCallCheck2.default)(this, Link)
               _this = (0, _possibleConstructorReturn2.default)(
                 this,
@@ -12445,8 +12448,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
       /*! no static exports found */
       /***/ function (module, exports, __webpack_require__) {
         'use strict'
-        /* WEBPACK VAR INJECTION */
-        ;(function (process) {
+        /* WEBPACK VAR INJECTION */ ;(function (process) {
           Object.defineProperty(exports, '__esModule', {
             value: true
           })

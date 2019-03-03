@@ -5698,8 +5698,8 @@
         })
 
         for (
-          var es6Symbols = 'hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables'.split(
-              // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
+          var es6Symbols = // 19.4.2.2, 19.4.2.3, 19.4.2.4, 19.4.2.6, 19.4.2.8, 19.4.2.9, 19.4.2.10, 19.4.2.11, 19.4.2.12, 19.4.2.13, 19.4.2.14
+            'hasInstance,isConcatSpreadable,iterator,match,replace,search,species,split,toPrimitive,toStringTag,unscopables'.split(
               ','
             ),
             j = 0;
@@ -7198,6 +7198,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
                 function LoadableComponent (props) {
                   var _this
+
                   ;(0, _classCallCheck2.default)(this, LoadableComponent)
                   _this = (0, _possibleConstructorReturn2.default)(
                     this,
@@ -15366,8 +15367,7 @@ SOFTWARE.
                 Object.defineProperty(__webpack_exports__, '__esModule', {
                   value: true
                 })
-                /* WEBPACK VAR INJECTION */
-                ;(function (process) {
+                /* WEBPACK VAR INJECTION */ ;(function (process) {
                   /* harmony export (immutable) */ __webpack_exports__[
                     'setEditorHandler'
                   ] = setEditorHandler
