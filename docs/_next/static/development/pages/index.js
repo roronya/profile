@@ -198,14 +198,14 @@
                 react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
                   next_link__WEBPACK_IMPORTED_MODULE_2___default.a,
                   {
-                    href: 'https://www.facebook.com/anoddfellow',
+                    href: 'http://roronya.hatenablog.com/',
                     __source: {
                       fileName: _jsxFileName,
                       lineNumber: 14
                     },
                     __self: this
                   },
-                  'Facebook'
+                  'Blog'
                 )
               ),
               react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
@@ -221,14 +221,60 @@
                 react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
                   next_link__WEBPACK_IMPORTED_MODULE_2___default.a,
                   {
-                    href: 'https://www.instagram.com/kanaichang/',
+                    href: 'https://www.facebook.com/anoddfellow',
                     __source: {
                       fileName: _jsxFileName,
                       lineNumber: 17
                     },
                     __self: this
                   },
+                  'Facebook'
+                )
+              ),
+              react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
+                'li',
+                {
+                  className: 'jsx-1748520001',
+                  __source: {
+                    fileName: _jsxFileName,
+                    lineNumber: 19
+                  },
+                  __self: this
+                },
+                react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
+                  next_link__WEBPACK_IMPORTED_MODULE_2___default.a,
+                  {
+                    href: 'https://www.instagram.com/kanaichang/',
+                    __source: {
+                      fileName: _jsxFileName,
+                      lineNumber: 20
+                    },
+                    __self: this
+                  },
                   'Instagram'
+                )
+              ),
+              react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
+                'li',
+                {
+                  className: 'jsx-1748520001',
+                  __source: {
+                    fileName: _jsxFileName,
+                    lineNumber: 22
+                  },
+                  __self: this
+                },
+                react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(
+                  next_link__WEBPACK_IMPORTED_MODULE_2___default.a,
+                  {
+                    href: 'https://www.flickr.com/photos/anoddfellow/',
+                    __source: {
+                      fileName: _jsxFileName,
+                      lineNumber: 23
+                    },
+                    __self: this
+                  },
+                  'Flickr'
                 )
               )
             ),
@@ -238,7 +284,7 @@
                 id: '1748520001',
                 __self: this
               },
-              'ul.jsx-1748520001{text-align:right;font-size:48px;}li.jsx-1748520001{list-style:none;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9yb3JvbnlhL3NyYy9naXRodWIuY29tL3Jvcm9ueWEvcHJvZmlsZS9jb21wb25lbnRzL01lbnUuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBb0JPLEFBRzRCLEFBSUQsZ0JBQ2xCLENBSmlCLGVBQ2pCIiwiZmlsZSI6Ii9Vc2Vycy9yb3JvbnlhL3NyYy9naXRodWIuY29tL3Jvcm9ueWEvcHJvZmlsZS9jb21wb25lbnRzL01lbnUuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5cbmV4cG9ydCBkZWZhdWx0ICgpID0+IChcbiAgPGRpdj5cbiAgICA8dWw+XG4gICAgICA8bGk+XG4gICAgICAgIDxMaW5rIGhyZWY9J2h0dHBzOi8vdHdpdHRlci5jb20vcm9yb255YSc+VHdpdHRlcjwvTGluaz5cbiAgICAgIDwvbGk+XG4gICAgICA8bGk+XG4gICAgICAgIDxMaW5rIGhyZWY9J2h0dHBzOi8vZ2l0aHViLmNvbS9yb3JvbnlhJz5HaXRIdWI8L0xpbms+XG4gICAgICA8L2xpPlxuICAgICAgPGxpPlxuICAgICAgICA8TGluayBocmVmPSdodHRwczovL3d3dy5mYWNlYm9vay5jb20vYW5vZGRmZWxsb3cnPkZhY2Vib29rPC9MaW5rPlxuICAgICAgPC9saT5cbiAgICAgIDxsaT5cbiAgICAgICAgPExpbmsgaHJlZj0naHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYW5haWNoYW5nLyc+SW5zdGFncmFtPC9MaW5rPlxuICAgICAgPC9saT5cbiAgICA8L3VsPlxuICAgIDxzdHlsZSBqc3g+XG4gICAgICB7YFxuICAgICAgICB1bCB7XG4gICAgICAgICAgdGV4dC1hbGlnbjogcmlnaHQ7XG4gICAgICAgICAgZm9udC1zaXplOiA0OHB4O1xuICAgICAgICB9XG4gICAgICAgIGxpIHtcbiAgICAgICAgICBsaXN0LXN0eWxlOiBub25lO1xuICAgICAgICB9XG4gICAgICBgfVxuICAgIDwvc3R5bGU+XG4gIDwvZGl2PlxuKVxuIl19 */\n/*@ sourceURL=/Users/roronya/src/github.com/roronya/profile/components/Menu.js */'
+              'ul.jsx-1748520001{text-align:right;font-size:48px;}li.jsx-1748520001{list-style:none;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9yb3JvbnlhL3NyYy9naXRodWIuY29tL3Jvcm9ueWEvcHJvZmlsZS9jb21wb25lbnRzL01lbnUuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBMEJPLEFBRzRCLEFBSUQsZ0JBQ2xCLENBSmlCLGVBQ2pCIiwiZmlsZSI6Ii9Vc2Vycy9yb3JvbnlhL3NyYy9naXRodWIuY29tL3Jvcm9ueWEvcHJvZmlsZS9jb21wb25lbnRzL01lbnUuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAncmVhY3QnXG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnXG5cbmV4cG9ydCBkZWZhdWx0ICgpID0+IChcbiAgPGRpdj5cbiAgICA8dWw+XG4gICAgICA8bGk+XG4gICAgICAgIDxMaW5rIGhyZWY9J2h0dHBzOi8vdHdpdHRlci5jb20vcm9yb255YSc+VHdpdHRlcjwvTGluaz5cbiAgICAgIDwvbGk+XG4gICAgICA8bGk+XG4gICAgICAgIDxMaW5rIGhyZWY9J2h0dHBzOi8vZ2l0aHViLmNvbS9yb3JvbnlhJz5HaXRIdWI8L0xpbms+XG4gICAgICA8L2xpPlxuICAgICAgPGxpPlxuICAgICAgICA8TGluayBocmVmPSdodHRwOi8vcm9yb255YS5oYXRlbmFibG9nLmNvbS8nPkJsb2c8L0xpbms+XG4gICAgICA8L2xpPlxuICAgICAgPGxpPlxuICAgICAgICA8TGluayBocmVmPSdodHRwczovL3d3dy5mYWNlYm9vay5jb20vYW5vZGRmZWxsb3cnPkZhY2Vib29rPC9MaW5rPlxuICAgICAgPC9saT5cbiAgICAgIDxsaT5cbiAgICAgICAgPExpbmsgaHJlZj0naHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9rYW5haWNoYW5nLyc+SW5zdGFncmFtPC9MaW5rPlxuICAgICAgPC9saT5cbiAgICAgIDxsaT5cbiAgICAgICAgPExpbmsgaHJlZj0naHR0cHM6Ly93d3cuZmxpY2tyLmNvbS9waG90b3MvYW5vZGRmZWxsb3cvJz5GbGlja3I8L0xpbms+XG4gICAgICA8L2xpPlxuICAgIDwvdWw+XG4gICAgPHN0eWxlIGpzeD5cbiAgICAgIHtgXG4gICAgICAgIHVsIHtcbiAgICAgICAgICB0ZXh0LWFsaWduOiByaWdodDtcbiAgICAgICAgICBmb250LXNpemU6IDQ4cHg7XG4gICAgICAgIH1cbiAgICAgICAgbGkge1xuICAgICAgICAgIGxpc3Qtc3R5bGU6IG5vbmU7XG4gICAgICAgIH1cbiAgICAgIGB9XG4gICAgPC9zdHlsZT5cbiAgPC9kaXY+XG4pXG4iXX0= */\n/*@ sourceURL=/Users/roronya/src/github.com/roronya/profile/components/Menu.js */'
             )
           )
         }
