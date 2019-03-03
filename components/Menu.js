@@ -1,38 +1,32 @@
 import React from 'react'
+import Link from 'next/link'
 
 export default () => (
   <div>
     <ul>
-      <li>Profile</li>
-      <li>Twitter</li>
-      <li>Github</li>
-      <li>Facebook</li>
-      <li>Instagram</li>
+      <li>
+        <Link href='https://twitter.com/roronya'>Twitter</Link>
+      </li>
+      <li>
+        <Link href='https://github.com/roronya'>GitHub</Link>
+      </li>
+      <li>
+        <Link href='https://www.facebook.com/anoddfellow'>Facebook</Link>
+      </li>
+      <li>
+        <Link href='https://www.instagram.com/kanaichang/'>Instagram</Link>
+      </li>
     </ul>
-    <style jsx>{`
-      li {
-        opacity: 0;
-      }
-      li:nth-child(1) {
-        animation: fadeIn 0.3s ease 0.3s 1 forwards;
-      }
-      li:nth-child(2) {
-        animation: fadeIn 0.47s ease 0.47s 1 forwards;
-      }
-      li:nth-child(3) {
-        animation: fadeIn 0.69s ease 0.69s 1 forwards;
-      }
-      li:nth-child(4) {
-        animation: fadeIn 0.77s ease 0.77s 1 forwards;
-      }
-      li:nth-child(5) {
-        animation: fadeIn 0.84s ease 0.84s 1 forwards;
-      }
-      @keyframes fadeIn {
-        100% {
-          opacity: 1;
+    <style jsx>
+      {`
+        ul {
+          text-align: right;
+          font-size: 48px;
         }
-      }
-    `}</style>
+        li {
+          list-style: none;
+        }
+      `}
+    </style>
   </div>
 )
